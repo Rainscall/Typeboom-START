@@ -64,7 +64,6 @@ body {
     display: block;
     width: 85%;
     height: 40px;
-    box-shadow: 0 0 5px rgba(70, 70, 40, .255);
     -webkit-animation: fadeIn 2.5s;
     animation: fadeIn 2.5s;
     border-radius: 8px;
