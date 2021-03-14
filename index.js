@@ -143,21 +143,6 @@ body {
     background: #F0F0F0;
 }
 
-#suggest ul>li b {
-    float: right;
-    width: 44px;
-    height: 40px;
-    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAI5JREFUSEtjZCACLF261J6RkbELpPT///9l0dHRB4nQRlgJ0ODny5Yt+w/CIDZhHUSqgBkKo4nURljZqMHwMBohQQFK/ECvnkT3LgX8kyAzGZATPwWGgTMPSiYCGvyEWgYiGfyEAcjxoKaroWZ5EM52QBUjJLkRExajQUH7Qgg5E4HYxMQLUWpgmYiUxA8AOdLMz+iDKvIAAAAASUVORK5CYII=') no-repeat scroll center center #fff;
-    background-size: 11px;
-}
-
-#suggest .close {
-    text-align: right;
-    font-size: 14px;
-    color: #888;
-    padding-right: 12px;
-}
-
 
 
 #body .label {
