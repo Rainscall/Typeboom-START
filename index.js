@@ -1,16 +1,17 @@
 const html = `<!DOCTYPE html>
 <html lang="zh">
-<link rel="icon" href="https://img.typeboom.club/extreme.png">
+<link rel="icon" href="https://img.typeboom.com/extreme.png">
 <!-- zh-CN：此站点与曾经出现过的fuckbaidu.vip和fuckbaidu.com无关。
 这是一个个人网站，内容存放在CloudFlare Workers，搜索窗口跳转https://cn.bing.com/ 。
 本网站的所有内容均保留权利。如果你对任何内容感到不适，请立即退出本站域名下的任何页面。
 本网站从未有意冒充任何官网或者官方内容。页面内部分资源来源于网络，如果您认为这里的任何内容侵犯了您或贵组织/单位的任何正当权利，请联系我：admin@typeboom.club。
 网站非商业运营，但是如果发生侵权，也不会给予任何补偿或道歉仅会删除侵权内容
 背景图像来自必应
-此条款适用于下列三个网站
+此条款适用于下列四个网站
 https://start.typeboom.club/
 https://fuckbaidu.xyz/
 https://www.fuckbaidu.xyz/
+https://start.typeboom.com/
 使用则代表同意此条款
  -->
 <!-- en-US
@@ -20,10 +21,11 @@ All content on this site is subject to copyright. If you are uncomfortable with 
 This site is not intended to impersonate any official website or official content. Some of the resources within the pages are sourced from the internet and if you believe that any of the content here infringes any legitimate rights of you or your organisation/unit, please contact me at admin@typeboom.club.
 The site is not a commercial operation, but no compensation or apology will be given in the event of infringement, only the removal of the infringing content.
 Background image from Bing
-This applies to the following three websites
+This applies to the following four websites
 https://start.typeboom.club/
 https://fuckbaidu.xyz/
 https://www.fuckbaidu.xyz/
+https://start.typeboom.com/
 By using this site, you agree to the terms and conditions
  -->
 <!-- 祝李彦宏下次被泼硫酸，当然还有张小龙 -->
@@ -142,7 +144,6 @@ body {
 #suggest ul>li:active {
     background: #F0F0F0;
 }
-
 
 
 #body .label {
@@ -327,7 +328,7 @@ body {
 
 <div class="search">
 <div class="logo">
-<img src="https://img.typeboom.club/Typeboom_START_LOGO_done.png" width="120" style="position:relative;top:-15px;">
+<img src="https://img.typeboom.com/Typeboom_START_LOGO_done.png" width="120" style="position:relative;top:-15px;">
 </div>
 
 <form id="search_form" onsubmit="return search()">
@@ -339,24 +340,24 @@ body {
 </div>
 <div class="label">
 <div class="box">
-<a href="https://typeboom.club/"></a>
-<img class="icon" src="https://img.typeboom.club/Logo.svg">
+<a href="https://www.typeboom.com/"></a>
+<img class="icon" src="https://img.typeboom.com/Logo.svg">
 </div>
 <div class="box">
 <a href="https://drive.typeboom.club/"></a>
-<img class="icon" src="https://img.typeboom.club/Drive.png">
+<img class="icon" src="https://img.typeboom.com/Drive.png">
 </div>
 <div class="box">
 <a href="https://www.bilibili.com/" rel="nofollow"></a>
-<img class="icon" src="https://img.typeboom.club/ico/bilibilibog.png">
+<img class="icon" src="https://img.typeboom.com/ico/bilibilibog.png">
 </div>
 <div class="box">
 <a href="https://youtube.com/" rel="nofollow"></a>
-<img class="icon" src="https://img.typeboom.club/ico/youtube.png">
+<img class="icon" src="https://img.typeboom.com/ico/youtube.png">
 </div>
 <div class="box">
 
-<script type="text/javascript" src="https://img.typeboom.club/ico/demo.js"></script>
+<script type="text/javascript" src="https://img.typeboom.com/ico/demo.js"></script>
 </body>
         </div></div></div></div></body></html>`
 
