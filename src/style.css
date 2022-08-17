@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('src/bg.png') no-repeat;
+    background: url('/src/bg.png') no-repeat;
     background-position: 0px -30px;
     background-color: #ffffff;
     font-size: 13px;
