@@ -78,16 +78,10 @@ body {
     color: #00000;
 }
 
-#fixedbutton {
-    position: fixed;
-    bottom: 0px;
-    right: 0px; 
-}
-
 #fixedbutton-r {
     position: fixed;
     bottom: 0px;
-    right: 60px; 
+    right: 0px; 
 }
 
 #suggest {
